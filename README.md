@@ -1,8 +1,13 @@
 # markov
 ## (EN)
-Generating text phrases based on Russian classics
+### Description
+Generating random text phrases based on Russian classics
 
 ## (RUS)
+
+### Описание
+Генерирует случайные предложения на базе произведений русских классиков.
+Перед началом создания предложений строит цепи Маркова, взятых из текстов сложенных в директорию "books".
 
 Пример выполнения программы:
 
